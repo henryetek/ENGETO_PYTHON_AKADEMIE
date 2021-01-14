@@ -1,0 +1,1 @@
+print('testuji připojení na github z VSCode')
