@@ -95,7 +95,6 @@ if VyberTextu in {1,2,3}:
       print("Grafická analýza výskytu délky slov a jejich opakování")
       print(Oddelovac)
 
-
       while CetnostDelekSeznam:  # Výpis sloupcového grafu
             PomCetnost = CetnostDelekSeznam.pop()
             print(PomCetnost[0], '*' * PomCetnost[1], PomCetnost[1])
