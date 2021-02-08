@@ -26,7 +26,7 @@ while True:
         piskvorky_game_over.print_game_over(first_player)
         break
 
-    # Kontrola remízy
+    # Kontrola nerozhodnosti výsledku
     elif piskvorky_tie.board_full(board_play):
         piskvorky_tie.print_tie()
         break
