@@ -113,7 +113,7 @@ if VyberTextu in {1,2,3}:
 
 else:
       print('Vámi vybraný text je mimo rozsah!', sep="\n")
-      print(Oddelovac, 'Konec programu. Nashledanou.', Oddelovac, sep="\n")
+      print(Oddelovac, 'Konec programu. Nashledanou.', Oddelovac, sep="\n\n")
       quit()
 
 
